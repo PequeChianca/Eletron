@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [PonteH.PrjPCB]
+   Generated File[PCB.BOM]
+   Generated File[PCB.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 23:05:13 On 19/10/2016

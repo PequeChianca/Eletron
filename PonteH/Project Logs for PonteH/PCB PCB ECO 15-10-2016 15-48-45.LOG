@@ -1,0 +1,21 @@
+Added Component: Designator=Q3(TO-92)
+Added Component: Designator=Q4(TO-92)
+Added Component: Designator=Q5(TO-92)
+Added Component: Designator=Q7(TO-92)
+Added Pin To Net: NetName=VS Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=S1M1 Pin=Q3-3
+Added Pin To Net: NetName=VS Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=S2M1 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=S1M2 Pin=Q5-3
+Added Pin To Net: NetName=VS Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=S1M2 Pin=Q7-3
+Added Member To Class: ClassName=Esquematico Member=Component Q3 BC558
+Added Member To Class: ClassName=Esquematico Member=Component Q4 BC558
+Added Member To Class: ClassName=Esquematico Member=Component Q5 BC548
+Added Member To Class: ClassName=Esquematico Member=Component Q7 BC558
+Added Room: Name=Esquematico

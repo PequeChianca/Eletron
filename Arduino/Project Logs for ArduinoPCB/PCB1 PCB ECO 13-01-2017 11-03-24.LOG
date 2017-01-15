@@ -1,0 +1,6 @@
+Added Component: Designator=U3(SOT-223-DB3_M)
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VCC Pin=U3-2
+Added Pin To Net: NetName=VIN Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-4
+Added Member To Class: ClassName=Esquematico Member=Component U3 REG1117-5

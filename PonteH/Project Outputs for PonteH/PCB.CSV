@@ -1,0 +1,11 @@
+"Bill of Material for "
+"On 19/10/2016 at 23:05:13"
+
+"Comment","Pattern","Quantity","Components"
+
+"BC548","TO-92","4","Q1, Q2, Q5, Q6","NPN General Purpose Amplifier"
+"BC558","TO-92","4","Q3, Q4, Q7, Q8","PNP Bipolar Transistor"
+"Cap","RAD-0.1","1","C2","Capacitor"
+"Diode 1N4004","DO-41","8","D1, D2, D3, D4, D5, D6, D7, D8","1 Amp General Purpose Rectifier"
+"Header 2","HDR1X2","5","P1, P2, P3, P4, P5","Header, 2-Pin"
+"Res1","AXIAL-0.3","8","R1, R2, R3, R4, R5, R6, R7, R8","Resistor"

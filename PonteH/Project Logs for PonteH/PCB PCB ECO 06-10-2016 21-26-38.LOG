@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Added Member To Class: ClassName=Esquematico Member=Component R7 Res1
+Added Member To Class: ClassName=Esquematico Member=Component R8 Res1

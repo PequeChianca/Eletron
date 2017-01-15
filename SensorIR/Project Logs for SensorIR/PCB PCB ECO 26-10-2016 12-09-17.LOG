@@ -1,0 +1,67 @@
+Added Component: Designator=C1(RAD-0.2)
+Added Component: Designator=C2(RAD-0.2)
+Added Component: Designator=D1(LED)
+Added Component: Designator=D2(LED)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=Q1(TO-92)
+Added Component: Designator=Q2(TO-92)
+Added Component: Designator=Q3(TO-92)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=U1(P008)
+Added Component: Designator=U2(N014)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=NetD2_2 Pin=D2-K
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD2_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=DISC Pin=R1-2
+Added Pin To Net: NetName=DISC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Pin To Net: NetName=DISC Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=NetQ3_1 Pin=U2-1
+Added Pin To Net: NetName=NetP1_2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-14
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-6
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R3-1
+Added Net: Name=NetQ2_3
+Added Member To Class: ClassName=Esquematico Member=Component C1 Cap
+Added Member To Class: ClassName=Esquematico Member=Component C2 Cap
+Added Member To Class: ClassName=Esquematico Member=Component D1 LED0
+Added Member To Class: ClassName=Esquematico Member=Component D2 LED0
+Added Member To Class: ClassName=Esquematico Member=Component P1 Header 3
+Added Member To Class: ClassName=Esquematico Member=Component Q1 BC558
+Added Member To Class: ClassName=Esquematico Member=Component Q2 BC548
+Added Member To Class: ClassName=Esquematico Member=Component Q3 BC558
+Added Member To Class: ClassName=Esquematico Member=Component R1 Res2
+Added Member To Class: ClassName=Esquematico Member=Component R2 Res2
+Added Member To Class: ClassName=Esquematico Member=Component R3 Res2
+Added Member To Class: ClassName=Esquematico Member=Component U1 NE555P
+Added Member To Class: ClassName=Esquematico Member=Component U2 SN74LS04N
+Added Room: Name=Esquematico

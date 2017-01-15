@@ -1,0 +1,6 @@
+Added Component: Designator=P1(HDR1X4)
+Added Pin To Net: NetName=SENTIDO 2 Pin=P1-1
+Added Pin To Net: NetName=PWM 2 Pin=P1-2
+Added Pin To Net: NetName=SENTIDO 1 Pin=P1-3
+Added Pin To Net: NetName=PWM 1 Pin=P1-4
+Added Member To Class: ClassName=Esquematico Member=Component P1 Header 4

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Esquematico Member=R7
+Removed Member From Class: ClassName=Esquematico Member=R8
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-23B_N New Footprint=TO-92
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23B_N New Footprint=TO-92
+Change Component Footprint: Designator=Q5 Old Footprint=SOT-23B_N New Footprint=TO-92
+Change Component Footprint: Designator=Q7 Old Footprint=SOT-23B_N New Footprint=TO-92
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Added Room: Name=Esquematico

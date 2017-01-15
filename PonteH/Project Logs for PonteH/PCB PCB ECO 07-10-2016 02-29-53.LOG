@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SENTIDO 1 Pin=R1-1
+Removed Pin From Net: NetName=SENTIDO 1 Pin=R2-2
+Removed Pin From Net: NetName=SENTIDO 21 Pin=R3-1
+Removed Pin From Net: NetName=SENTIDO 21 Pin=R4-2
+Removed Pin From Net: NetName=SENTIDO 2 Pin=R5-1
+Removed Pin From Net: NetName=SENTIDO 2 Pin=R6-2
+Removed Pin From Net: NetName=SENTIDO 22 Pin=R7-1
+Removed Pin From Net: NetName=SENTIDO 22 Pin=R8-2
+Added Pin To Net: NetName=SENTIDO 21 Pin=R1-1
+Added Pin To Net: NetName=SENTIDO 21 Pin=R2-2
+Added Pin To Net: NetName=SENTIDO 1 Pin=R3-1
+Added Pin To Net: NetName=SENTIDO 1 Pin=R4-2
+Added Pin To Net: NetName=SENTIDO 22 Pin=R5-1
+Added Pin To Net: NetName=SENTIDO 22 Pin=R6-2
+Added Pin To Net: NetName=SENTIDO 2 Pin=R7-1
+Added Pin To Net: NetName=SENTIDO 2 Pin=R8-2
+Added Room: Name=Esquematico

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=NetD2_2 Pin=D2-K
+Added Member To Class: ClassName=Esquematico Member=Component D1 LED0
+Added Member To Class: ClassName=Esquematico Member=Component Q1 PNP

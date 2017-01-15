@@ -1,0 +1,4 @@
+Added Component: Designator=S1(SPST)
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Member To Class: ClassName=Esquematico Member=Component S1 SW-PB

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetQ1_1 Pin=P1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U1-8
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-14
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=VCC

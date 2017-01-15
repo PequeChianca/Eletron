@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=D8 Pin=*-12
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=*-13
+Added Net: Name=D9
+Added Room: Name=Esquematico

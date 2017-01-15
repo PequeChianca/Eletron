@@ -1,0 +1,5 @@
+Added Component: Designator=U?(N014)
+Added Pin To Net: NetName=IN1 Pin=U?-1
+Added Pin To Net: NetName=OUT1 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=VCC Pin=U?-14

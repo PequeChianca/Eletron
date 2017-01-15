@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=S2M2 Pin=D7-1
+Removed Pin From Net: NetName=S2M2 Pin=D8-2
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR1X2)
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D8-2
+Added Net: Name=NetD7_1
+Added Member To Class: ClassName=Esquematico Member=Component P3 Header 2
+Added Member To Class: ClassName=Esquematico Member=Component P4 Header 2
+Added Room: Name=Esquematico

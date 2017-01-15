@@ -1,0 +1,14 @@
+Added Component: Designator=*(Arduino)
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=D2 Pin=*-5
+Added Pin To Net: NetName=D3 Pin=*-6
+Added Pin To Net: NetName=D11 Pin=*-14
+Added Pin To Net: NetName=D12 Pin=*-15
+Added Pin To Net: NetName=D13 Pin=*-16
+Added Pin To Net: NetName=A2 Pin=*-24
+Added Pin To Net: NetName=A1 Pin=*-25
+Added Pin To Net: NetName=A0 Pin=*-26
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=VCC Pin=*-30
+Added Member To Class: ClassName=Esquematico Member=Component * ArduinoNANO
+Added Room: Name=Esquematico

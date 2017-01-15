@@ -1,0 +1,4 @@
+Remove Pin=P1-1 From Net=PWM 2
+Remove Pin=P1-2 From Net=PWM 1
+Remove Pin=P1-3 From Net=SENTIDO 2
+Remove Pin=P1-4 From Net=SENTIDO 1

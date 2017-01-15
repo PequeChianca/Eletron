@@ -1,0 +1,26 @@
+Added Component: Designator=*(Arduino)
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=IN1 Pin=*-5
+Added Pin To Net: NetName=IN2 Pin=*-6
+Added Pin To Net: NetName=IN3 Pin=*-7
+Added Pin To Net: NetName=IN4 Pin=*-8
+Added Pin To Net: NetName=IN5 Pin=*-9
+Added Pin To Net: NetName=IN6 Pin=*-10
+Added Pin To Net: NetName=IN7 Pin=*-11
+Added Pin To Net: NetName=IN8 Pin=*-12
+Added Pin To Net: NetName=IN9 Pin=*-13
+Added Pin To Net: NetName=IN10 Pin=*-14
+Added Pin To Net: NetName=IN11 Pin=*-15
+Added Pin To Net: NetName=IN12 Pin=*-16
+Added Pin To Net: NetName=IN13 Pin=*-19
+Added Pin To Net: NetName=IN14 Pin=*-20
+Added Pin To Net: NetName=IN15 Pin=*-21
+Added Pin To Net: NetName=IN16 Pin=*-22
+Added Pin To Net: NetName=IN17 Pin=*-23
+Added Pin To Net: NetName=IN18 Pin=*-24
+Added Pin To Net: NetName=IN19 Pin=*-25
+Added Pin To Net: NetName=IN20 Pin=*-26
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=VCC Pin=*-30
+Added Class: Name=Esquematico
+Added Room: Name=Esquematico

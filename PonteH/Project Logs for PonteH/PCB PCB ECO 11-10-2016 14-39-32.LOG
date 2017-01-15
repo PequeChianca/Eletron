@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VS Pin=C1-2
+Removed Pin From Net: NetName=VS Pin=P2-2
+Removed Pin From Net: NetName=VS Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-3
+Removed Member From Class: ClassName=Esquematico Member=C1
+Removed Member From Class: ClassName=Esquematico Member=U1
+Change Component Footprint: Designator=Q3 Old Footprint=TO-92 New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q4 Old Footprint=TO-92 New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q5 Old Footprint=TO-92 New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q7 Old Footprint=TO-92 New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q1 Old Footprint=TO-226-AA New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q2 Old Footprint=TO-226-AA New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q6 Old Footprint=TO-226-AA New Footprint=TO-220-AB
+Change Component Footprint: Designator=Q8 Old Footprint=TO-226-AA New Footprint=TO-220-AB
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Room: Name=Esquematico

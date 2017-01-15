@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetD1_1 Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Class: Name=Esquematico
+Added Room: Name=Esquematico

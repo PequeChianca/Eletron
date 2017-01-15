@@ -1,0 +1,6 @@
+Added Component: Designator=S1(PushButton)
+Added Pin To Net: NetName=IMA1 Pin=S1-1
+Added Pin To Net: NetName=IMA1 Pin=S1-1
+Added Pin To Net: NetName=IMA2 Pin=S1-2
+Added Pin To Net: NetName=IMA2 Pin=S1-2
+Added Member To Class: ClassName=Placa Member=Component S1 SW-PB

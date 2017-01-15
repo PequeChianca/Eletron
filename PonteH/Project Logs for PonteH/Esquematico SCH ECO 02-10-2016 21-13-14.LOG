@@ -1,0 +1,4 @@
+Remove Pin=P3-1 From Net=S1M1
+Remove Pin=P3-2 From Net=S2M1
+Remove Pin=P4-1 From Net=S1M2
+Remove Pin=P4-2 From Net=S2M2

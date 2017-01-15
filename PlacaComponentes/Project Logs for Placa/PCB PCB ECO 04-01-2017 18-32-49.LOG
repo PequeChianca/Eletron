@@ -1,0 +1,16 @@
+Added Component: Designator=D1(LED)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=S1(SPST-2)
+Added Pin To Net: NetName=IMA1 Pin=D1-A
+Added Pin To Net: NetName=IMA1 Pin=R2-1
+Added Pin To Net: NetName=IMA1 Pin=S1-1
+Added Net: Name=IMA1
+Added Pin To Net: NetName=IMA2 Pin=R1-2
+Added Pin To Net: NetName=IMA2 Pin=R2-2
+Added Pin To Net: NetName=IMA2 Pin=S1-2
+Added Net: Name=IMA2
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R1-1
+Added Net: Name=NetD1_K
+Added Class: Name=Placa

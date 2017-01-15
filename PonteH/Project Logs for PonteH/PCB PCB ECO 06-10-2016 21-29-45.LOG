@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=VS Pin=Q3-3
+Added Pin To Net: NetName=VS Pin=Q4-3
+Added Pin To Net: NetName=VS Pin=Q5-3
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=VS Pin=Q7-3
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Member To Class: ClassName=Esquematico Member=Component R3 Res1
+Added Member To Class: ClassName=Esquematico Member=Component R4 Res1
+Added Room: Name=Esquematico

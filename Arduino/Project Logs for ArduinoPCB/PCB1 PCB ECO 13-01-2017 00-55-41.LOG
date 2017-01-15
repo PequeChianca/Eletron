@@ -1,0 +1,13 @@
+Added Component: Designator=U2(QSOP-QR16_L)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=RX Pin=U2-2
+Added Pin To Net: NetName=TX Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=U2-4
+Added Pin To Net: NetName=D+ Pin=U2-5
+Added Pin To Net: NetName=D- Pin=U2-6
+Added Pin To Net: NetName=NetU2_7 Pin=U2-7
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Pin To Net: NetName=NetC2_1 Pin=U2-13
+Added Pin To Net: NetName=VCC Pin=U2-16
+Added Member To Class: ClassName=Esquematico Member=Component U2 CH340G
+Added Room: Name=Esquematico

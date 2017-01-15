@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SENTIDO 11 Pin=U3-4
+Removed Pin From Net: NetName=SENTIDO 12 Pin=U3-6
+Added Pin To Net: NetName=SENTIDO 12 Pin=P5-1
+Added Pin To Net: NetName=SENTIDO 11 Pin=P5-2
+Change Net Name : Old Net Name=SENTIDO 11 New Net Name=SENTIDO 1
+Change Net Name : Old Net Name=SENTIDO 12 New Net Name=SENTIDO 2
+Added Room: Name=Esquematico

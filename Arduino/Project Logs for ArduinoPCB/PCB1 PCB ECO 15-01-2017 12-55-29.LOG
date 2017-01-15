@@ -1,0 +1,7 @@
+Added Component: Designator=E6(TermIma)
+Added Pin To Net: NetName=VIN Pin=E6-1
+Added Pin To Net: NetName=VIN Pin=E6-1
+Added Pin To Net: NetName=VIN Pin=E6-1
+Added Pin To Net: NetName=VIN Pin=E6-1
+Added Pin To Net: NetName=VIN Pin=E6-1
+Added Member To Class: ClassName=Esquematico Member=Component E6 EletronIMA
